@@ -1,3 +1,5 @@
+# ALL THE PATHS IN THIS FILE SHOULD BE CHANGED TO MATCH YOUR PATH FOR THE TRAINING AND TESTING SETS
+
 import torch
 from torchvision import datasets, transforms
 import matplotlib.pyplot as plt
