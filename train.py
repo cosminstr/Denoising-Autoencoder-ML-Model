@@ -1,6 +1,6 @@
 import torch
 from torch import nn
-from processing.data_preprocessing import *
+from data_processing.data_preprocessing import *
 from model.model import *
 import os
 

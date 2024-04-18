@@ -1,4 +1,4 @@
-from processing.data_preprocessing import *
+from data_processing.data_preprocessing import *
 
 #Plotting the images to test if they were loaded correctly
 
