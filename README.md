@@ -6,9 +6,8 @@ The projects consists of a particular application of the Autoencoder, the Denois
 
 ## Technologies Used
 
-- Pandas and NumPy for Data Processing
 - PyTorch 
-- Matplotlib 
+- Matplotlib for some data visualisation
 
 ## How to Install the Project
 
