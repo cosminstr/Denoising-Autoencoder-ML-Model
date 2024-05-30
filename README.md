@@ -2,7 +2,7 @@
 
 ## Description
 
-The projects consists of a particular application of the Autoencoder, the Denoising Autoencoder. For the datasets on which the model was trained and tested on make sure to issue a request in the "issues" page of this repository and i will send you the complete archive with both datasets.
+The project consists of a particular application of the Autoencoder, the Denoising Autoencoder. For the datasets on which the model was trained and tested on make sure to issue a request in the "issues" page of this repository and i will send you the complete archive with both datasets.
 
 ## Technologies Used
 
