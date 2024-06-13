@@ -5,7 +5,6 @@ from model.model import *
 import os
 
 check_interval = 1
-
 num_epochs = 10
 autoencoder = Autoencoder()
 
